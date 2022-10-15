@@ -1,0 +1,15 @@
+# Dependency directory
+node_modules
+
+# IntelliJ IDE
+.idea
+
+# macOS
+.DS_Store
+
+# local env variables
+.env
+
+# hardhat
+cache
+artifacts
